@@ -1,5 +1,4 @@
 # Project Mau5ville
-> _Coming Summer 2022_
 
 ### The official Minecraft network of [deadmau5](https://en.wikipedia.org/wiki/Deadmau5)
 
