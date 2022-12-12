@@ -4,5 +4,5 @@
 
 *Stay tuned for updates from production staff*
 
-> Join the official [deadmau5 Discord Server](https://discord.gg/mau5cord) for timely updates!
-> (Tho if we're being honest, the launch will probably be pretty hard to miss 🤔)
+> Join the official [deadmau5 Discord Server](https://discord.gg/mau5cord)
+> Come play with us! mau5ville.com
